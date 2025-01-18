@@ -1,0 +1,1 @@
+[r'<mark style=\"background: #[A-Z0-9]{8};\">([\S\s]*?)</mark>', r'\g<1>', True, 3], [r"\[\^[^\n]+?\]|\|", r"", True],[r"==([\s\S]*?)==", "\1", True]
